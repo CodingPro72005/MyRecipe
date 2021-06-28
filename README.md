@@ -5,7 +5,8 @@ Recipe- NOODLE
 vegies-capsicum,tomatos.
 
 masala-that given in the noodle packet 
-water
+
+# water is needed
 
 #Step1- first take a cooker and put water in it and keep for boil for some second.
 
